@@ -7,3 +7,4 @@
         ;
     });
 };
+//borrowed from http://stackoverflow.com/a/4673436
